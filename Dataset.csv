@@ -1,0 +1,426 @@
+,Company Name,Sector,Region,Startup Year,Domestic Funds in mil USD,Foreign Funds,Revenue 2018,Revenue 2019,Revenue 2020,Revenue 2021,Revenue 2022
+0,Urban Company,Home Services,Gurugram,2014,190.0,,216.0,376.0,21.0,960.0,1769.0
+1,Classplus,Edtech,Noida,2018,25.0,,18.0,27.0,36.2,200.0,270.0
+2,Paytm,Fintech,Noida,2010,4000.0,,3115.0,3232.01,2000.0,9600.0,10000.0
+3,Apna,Job Marketplace,Bangalore,2019,20.0,,,1.2,2.3,40.0,88.0
+4,Razorpay,Fintech,Bangalore,2014,206.0,,92.0,197.0,43.6,660.0,884.0
+5,UpGrad,Edtech,Mumbai,2015,185.0,,59.0,132.0,165.0,1660.0,2000.0
+6,Delhivery,Logistics,Gurugram,2011,1.6,,1073.0,1634.0,2500.0,6000.0,8800.0
+7,1mg,Healthtech,Gurugram,2015,450.0,,85.8,63.2,50.0,884.0,900.0
+8,BigBasket,E-commerce,Bangalore,2011,280.0,,1606.0,2380.0,2500.0,8800.0,9300.0
+9,GoMechanic,Auto Services,Gurugram,2016,42.0,,61.85,106.0,12.3,32.0,45.0
+10,Unacademy,Edtech,Bangalore,2015,440.0,,5.53,11.6,86.0,1825.0,2500.0
+11,Ola,Transportation,Bangalore,2010,3800.0,500.0,1860.0,2543.0,2662.3,2920.0,4308.0
+12,Licious,Food Delivery,Bengaluru,2015,286.0,,27.7,69.43,68.26,876.0,1302.0
+13,CRED,Fintech,Bangalore,2018,80.0,,64.8,62.3,0.18,292.0,450.0
+14,CityMall,E-commerce,Gurgaon,2018,11.0,,14.95,16.5,14.95,109.5,162.0
+15,Groww,Fintech,Bangalore,2016,30.0,,0.1,0.2,1.77,219.0,432.0
+16,Grofers,E-commerce,Gurugram,2013,200.0,,83.6,173.7,1.77,5110.0,6457.0
+17,Jumbotail,B2B E-commerce,Bangalore,2015,15.0,,900.0,1003.0,830.0,584.0,884.0
+18,slice,Fintech,Bangalore,2019,20.0,,26.0,27.0,39.0,146.0,276.0
+19,InMobi,Advertising Tech,Bangalore,2007,330.0,,392.0,432.0,579.0,2555.0,3946.0
+20,Dunzo,Hyperlocal Delivery,Bangalore,2015,40.0,,2.2,3.5,38.0,438.0,592.0
+21,BYJU’S,Edtech,Bangalore,2008,460.0,,520.0,1376.0,3492.0,14600.0,23459.0
+22,Cashfree,Fintech,Bangalore,2015,35.0,,25.22,34.0,68.26,227.33,350.0
+23,MediBuddy,Healthtech,Bangalore,2014,50.0,,13.0,25.0,18.0,234.0,260.0
+24,Progcap,Fintech,New Delhi,2017,25.0,,7.0,6.0,14.95,5.9,26.41
+25,Capital Float,Fintech,Bangalore,2013,15.0,,200.0,276.0,177.0,87.2,62.0
+26,CARS24,Automotive,Gurugram,2015,400.0,,660.95,1687.0,1.77,2796.0,6072.0
+27,Skillmatics,Education,Bangalore,2017,40.0,,5.0,8.84,36.0,150.0,400.0
+28,Rapido,Transportation,Bangalore,2015,52.0,,20.0,30.0,39.0,75.6,144.8
+29,Reliance Jio,Telecommunications,Mumbai,2016,,20000.0,38638.0,23394.0,72948.0,792000.0,976000.0
+30,YourStory,Media and Publishing,Bangalore,2008,5.0,,18.0,27.0,28.0,26.0,84.0
+31,Kodo,Payment Solutions,Bengaluru,2021,2.5,,,,,,
+32,Practo,Healthtech,Bangalore,2008,90.0,,175.0,124.0,22.73,105.0,200.0
+33,NiYO Solutions,Fintech,Bangalore,2015,49.0,,10.0,13.0,23.4,126.0,205.0
+34,Reliance Retail,Retail,Mumbai,2006,,2700.0,130556.0,100000.0,22.73,149925.0,199000.0
+35,Locus.sh,Logistics and Supply Chain,Gurugram,2015,50.0,,67.0,88.4,94.0,709.5,1000.0
+36,KreditBee,Fintech,Bengaluru,2018,145.0,,13.4,14.0,16.87,424.08,445.4
+37,Blackbuck,Logistics and Supply Chain,Bangalore,2015,150.0,,888.0,1739.0,22.81,867.0,833.0
+38,Wakefit,Home and Living,Bangalore,2016,28.0,,80.0,199.0,19.7,408.6,632.8
+39,Freshtohome,E-commerce,Bangalore,2015,121.0,,160.35,200.0,120.0,67.9,102.5
+40,Housing.com,Real Estate,Gurugram,2012,20.0,,2932.0,2733.0,1.27,300.0,430.0
+41,Doubtnut,Edtech,Gurugram,2017,80.0,,5.0,5.6,2.28,,10.83
+42,smallcase,Fintech,Bangalore,2015,40.0,,4.0,4.2,11.4,4.7,9.8
+43,Instamojo,Fintech,Bangalore,2012,30.0,,30.0,40.0,38.0,42.0,50.0
+44,Zomato,Food Delivery,Gurugram,2008,660.0,,466.0,820.0,260.4,3500.0,5000.0
+45,SUGAR Cosmetics,Beauty and Cosmetics,Gurugram,2015,21.0,,45.0,70.0,100.0,105.0,150.0
+46,WinZO,Gaming,New Delhi,2018,65.0,,11.0,19.0,64.0,112.0,234.0
+47,Chingari,Social Media and Entertainment,Bengaluru,2018,19.0,,1.0,2.0,2.6,5.0,10.0
+48,Fisdom,Fintech,Bangalore,2015,7.0,,23.0,50.0,30.0,20.0,30.0
+49,Digit Insurance,Insurtech,Bengaluru,2016,84.0,,450.0,1634.0,1504.0,1334.4,1758.6
+50,Aye Finance,Fintech,Gurugram,2014,67.0,,183.0,438.0,390.0,402.0,630.0
+51,Rivigo,Logistics and Supply Chain,Gurugram,2014,95.0,,721.0,684.0,600.0,635.0,600.0
+52,Pepper Content,Content Marketing and Creation,Mumbai,2017,4.2,,0.5,2.0,2.1,3.3,19.03
+53,Get My Parking,Smart Parking Solutions,New Delhi,2015,6.0,,27.0,37.0,29.05,40.5,43.0
+54,FabAlley,Fashion E-commerce,Gurugram,2012,3.0,,80.0,87.48,127.0,270.0,303.0
+55,FarMart,Agri-tech and E-commerce,Gurugram,2017,2.0,,30.0,35.0,65.0,158.0,209.0
+56,mfine,Healthtech and Telemedicine,Bangalore,2017,16.0,,5.0,5.6,6.7,14.7,50.2
+57,Medlife,Healthcare and Pharmacy,Bangalore,2014,25.0,,135.6,343.5,637.0,737.0,1000.0
+58,Lendingkart,Fintech,Ahmedabad,2014,30.0,,91.8,80.0,111.0,510.0,638.5
+59,Chqbook,Fintech,Gurugram,2017,4.0,,,6.0,10.0,13.0,26.0
+60,Turtlemint,Insurtech,Mumbai,2015,30.0,,100.0,178.0,100.0,63.1,99.4
+61,Ecom Express,Logistics and Supply Chain,New Delhi,2012,35.0,,578.0,670.0,1500.0,1638.0,2127.0
+62,BharatPe,Fintech,New Delhi,2018,108.0,,18.0,6.0,6.0,119.0,321.0
+63,Vymo,Fintech,Bangalore,2013,18.0,,28.0,34.0,56.0,76.0,89.0
+64,Shiprocket,Logistics and E-commerce Solutions,Gurugram,2017,13.0,,30.0,45.0,165.0,358.0,611.13
+65,LeadSquared,Sales and Marketing Automation,Bengaluru,2012,32.0,,19.0,33.0,56.0,99.5,193.5
+66,FamPay,Fintech,Bangalore,2019,38.0,,,3.06,4.0,3.5,3.0
+67,Quikr,Online Classifieds and Marketplace,Bangalore,2008,75.0,,200.0,173.49,150.0,60.7,49.1
+68,Quizizz,Edtech,Palo Alto,2017,12.5,,29.0,8.6,10.0,15.0,12.0
+69,Stanza Living,Coliving and Student Housing,Gurugram,2017,72.0,,33.0,50.0,71.33,39.7,115.0
+70,Pristyn Care,Healthcare and Wellness,Gurugram,2018,53.0,,1.2,3.43,25.78,96.0,350.0
+71,Polygon (Previously Matic Network),Blockchain and Cryptocurrency,Mumbai,2017,260.0,,171.0,,,,
+72,Bobble AI,Artificial Intelligence and Chatbots,Gurugram,2015,5.0,,34.0,26.0,13.78,2.31,18.0
+73,Cell Propulsion,Electric Vehicles and Technology,Bangalore,2019,2.0,,2.12,4.0,7.0,14.4,43.2
+74,Dukaan®,E-commerce and Retail Solutions,Bangalore,2020,11.0,,1.62,2.01,5.1,7.41,10.43
+75,Play Shifu,Edtech and Augmented Reality,Bangalore,2016,7.0,,58.0,70.0,88.0,75.0,109.26
+76,Lava International Limited,Mobile Phones and Electronics,Noida,2009,,100.0,73.18,106.0,300.0,3034.0,5524.0
+77,LocoNav,Logistics and Fleet Management,Gurugram,2015,37.0,,2.29,,,,175.0
+78,Avataar.Me,Virtual Reality and Healthcare,Bengaluru,2017,7.0,,36.0,74.0,193.0,142.0,163.0
+79,BluSmart Mobility,Electric Mobility and Ride Sharing,New Delhi,2019,4.0,,,,,,403.0
+80,SleepyCat,Online Mattress Retail and Sleep Solutions,New Delhi,2017,2.5,,3.5,50.46,300.0,456.0,550.0
+81,INDmoney,Wealth Management and Fintech,Gurugram,2018,15.0,,,,7.25,,483.19
+82,Shipsy,Logistics and Supply Chain Technology,Gurugram,2015,6.0,,0.8,1.0,4.0,26.0,78.0
+83,Kissht208,Fintech,Bangalore,2015,4.0,,13.0,26.0,214.0,513.6,1020.9
+84,MedGenome,Genomics and Healthcare,Bangalore,2013,75.0,,100.0,115.0,184.0,220.0,400.0
+85,Fabhotels,Hospitality and Hotel Chain,Gurugram,2014,35.0,,38.0,50.0,45.0,289.0,550.0
+86,Loadshare,Logistics and Supply Chain Solutions,Bangalore,2017,3.0,,40.0,63.0,97.0,189.2,372.0
+87,Gradeup,Edtech and Test Preparation,Noida,2015,40.0,,12.0,30.0,60.0,60.0,750.0
+88,FreeCharge,Fintech and Digital Payments,Gurugram,2010,120.0,,22.59,54.0,63.0,182.0,287.0
+89,Healthkart,Fitness and Supplements,Gurugram,2011,25.0,,190.0,210.0,335.0,310.0,700.0
+90,Saveo,Fintech and Pharmatech,Bangalore,2020,4.2,,0.43,0.78,1.93,8.05,12.0
+91,True Balance,Fintech,Gurugram,2014,42.0,,5.97,8.35,45.0,63.0,243.91
+92,Coverfox Insurance,Insurtech,Mumbai,2013,22.0,,12.42,9.8,7.5,12.1,13.0
+93,EarlySalary,Fintech,Pune,2015,17.0,,100.0,124.0,101.6,84.2,602.61
+94,Pitstop,Auto Services and Maintenance,Bangalore,2015,1.6,,2.0,22.0,45.0,72.0,155.0
+95,Wheels Eye,Healthtech and Eyecare,Bangalore,2016,30.0,,74.0,56.0,13.81,39.83,156.93
+96,Bira 91,Beverages and Craft Beer,New Delhi,2015,30.0,,160.0,192.0,721.0,431.0,720.0
+97,PlanetSpark,Edtech,Gurugram,2016,13.5,,1.2,2.1,3.0,4.61,30.0
+98,LimeRoad,E-commerce and Fashion,Gurugram,2012,30.0,,160.2,184.0,100.89,179.0,69.13
+99,Pratilipi,Content Creation and Publishing,Bangalore,2015,48.0,,1.5,1.0,0.76,0.19,7.88
+100,Freight Tiger,Logistics and Supply Chain Tech,Chennai,2014,8.0,,34.0,41.0,14.0,19.0,15.12
+101,unlu,Celebrity Shoutouts and Fan Engagement,Gurugram,2020,5.0,,2.0,3.43,5.56,4.2,6.7
+102,KIMS Hospitals,Healthcare and Hospitals,Hyderabad,2002,250.0,,65.0,330.0,500.0,513.3,1168.0
+103,InterviewBit,Tech Education and Training,Pune,2015,20.0,,0.65,0.89,1.54,0.66,0.84
+104,Oye Rickshaw,Transportation and E-Rickshaws,Gurugram,2017,3.8,,5.0,9.0,22.7,,
+105,Arzooo.com,B2B E-commerce and Retail Tech,Bangalore,2019,6.0,,45.0,89.0,211.0,258.7,1117.4
+106,Amber Group,Cryptocurrency and Finance,Hong Kong,2018,,100.0,1134.0,1200.58,3962.79,3030.52,4206.4
+107,Star Health and Allied Insurance,Insurtech and Healthcare,Chennai,2006,,205.0,764.0,1000.0,4690.0,4629.0,10610.0
+108,Magicbricks,Real Estate and Property Tech,New Delhi,2006,21.0,,47.5,74.0,89.0,246.48,254.0
+109,Unbxd,Artificial Intelligence and E-commerce Tech,Bangalore,2011,12.5,,12.0,64.0,100.0,670.0,782.0
+110,LIDO,Edtech,Bangalore,2019,10.0,,2.3,4.5,7.8,11.3,158.33
+111,Yulu,Shared Micro-Mobility and Transportation,Bangalore,2017,71.0,,3.0,5.0,4.6,15.9,30.5
+112,Cashify,Recommerce and Electronics Trade-In,Gurugram,2013,15.0,,47.3,120.0,343.5,340.0,498.0
+113,Revv,Car Rental and Subscription,Gurugram,2015,15.0,,12.0,12.56,14.64,36.0,63.0
+114,UrbanPiper,Restaurant Tech and Software,Bangalore,2015,7.5,,0.3,1.34,2.3,4.34,15.0
+115,PropTiger,Real Estate and Property Tech,Gurugram,2011,70.0,,234.0,5.5,78.0,300.0,63.4
+116,Miko,Consumer Robotics and AI,Bangalore,2015,7.7,,3.4,7.27,19.35,27.51,117.0
+117,CleverTap,Technology,Mumbai,2018,,,,,,,
+118,EarlySalary,Finance,Pune,2018,,,,,,,
+119,WOTU,E-commerce,Bengaluru,2018,,,,,,,
+120,DAAKI,E-commerce,Bengaluru,2018,,,,,,,
+121,Lendingkart,Finance,Ahmedabad,2018,,,,,,,
+122,Kinsane Entertainment Inc,Entertainment,Mumbai,2018,,,,,,,
+123,Tapzo,Technology,Bengaluru,2018,,,,,,,
+124,Appario Retail Pvt Ltd.,E-commerce,Delhi,2018,,,,,,,
+125,Samunnati,Finance,Chennai,2018,,,,,,,
+126,Sahajanand Medical Technologies,Technology,Surat,2018,,,,,,,
+127,Kuants,Technology,Gurgaon,2018,,,,,,,
+128,Razorpay,Technology,Bengaluru,2018,,,,,,,
+129,Streak,Technology,Bengaluru,2018,,,,,,,
+130,pi Ventures,Finance,Bengaluru,2018,,,,,,,
+131,Newgen Software,Technology,New Delhi,2018,,,,,,,
+132,Rubix,Technology,Pune,2018,,,,,,,
+133,ShareChat,Technology,Bengaluru,2018,,,,,,,
+134,Paperflite,Technology,Chennai,2018,,,,,,,
+135,HungerBox,Consumer Internet,Bangalore,2018,,,,,,,
+136,Skillate,Technology,Bengaluru,2018,,,,,,,
+137,OptaCredit,Finance,Chennai,2018,,,,,,,
+138,AEON Learning,Technology,Bengaluru,2018,,,,,,,
+139,Milkbasket,E-commerce,Gurugram,2018,,,,,,,
+140,NeoGrowth Credit,Finance,Mumbai,2018,,,,,,,
+141,Rao IIT Academy,Education,Mumbai,2018,,,,,,,
+142,Aye Finance,Finance,Gurugram,2018,,,,,,,
+143,Glassic,Ecommerce,Bengaluru,2018,,,,,,,
+144,GreyAtom,Technology,Mumbai,2018,,,,,,,
+145,Axio,Healthcare,Bengaluru,2018,,,,,,,
+146,eKincare,Healthcare,Hyderabad,2018,,,,,,,
+147,The Wedding Brigade,Consumer internet,Mumbai,2018,,,,,,,
+148,PeeSafe,Healthcare,Gurugram,2018,,,,,,,
+149,BrowserStack,Technology,Mumbai,2018,,,,,,,
+150,Scapic,Technology,Bengaluru,2018,,,,,,,
+151,MoneyOnMobile,Technology,Mumbai,2018,,,,,,,
+152,CureFit,Healthcare,Bengaluru,2018,,,,,,,
+153,iNurture,Technology,Bengaluru,2018,,,,,,,
+154,BigBasket,Consumer Internet,Bengaluru,2018,,,,,,,
+155,Zomato,Food and Beverages,Gurugram,2018,,,,,,,
+156,Pratilipi,Publishing,Bengaluru,2018,,,,,,,
+157,Asia Institute Of Medical Science,Healthcare,Faridabad,2018,,,,,,,
+158,CollegeDekho,Consumer Internet,Gurugram,2018,,,,,,,
+159,Foodmemories,Consumer Internet,Ahemdabad,2018,,,,,,,
+160,Healthi,Healthcare,Bengaluru,2018,,,,,,,
+161,Swiggy,Food and Beverages,Bengaluru,2018,,,,,,,
+162,Shape,Healthcare,Pune,2018,,,,,,,
+163,Icertis,Consumer Internet,Pune,2018,,,,,,,
+164,healthifyme,Healthcare,Bengaluru,2018,,,,,,,
+165,MedTel,Healthcare,Bhubaneswar,2018,,,,,,,
+166,Rupeek,Consumer Internet,Bengaluru,2018,,,,,,,
+167,WebEngage,Technology,Mumbai,2018,,,,,,,
+168,Lendingkart,Finance,Bengaluru,2018,,,,,,,
+169,Wydr,Consumer Internet,Gurugram,2018,,,,,,,
+170,Cashify,E-Commerce,Gurugram,2018,,,,,,,
+171,holachef,Food and Beverages,Mumbai,2018,,,,,,,
+172,Awaaz De,Technology,Ahmedabad,2018,,,,,,,
+173,IMAX Program,Ed-Tech,Bengaluru,2018,,,,,,,
+174,Littlemore,Ed-Tech,Chennai,2018,,,,,,,
+175,Toppr,Ed-Tech,Mumbai,2018,,,,,,,
+176,Shirsa Labs,Ed-Tech,Mumbai,2018,,,,,,,
+177,MoneyOnMobile,Technology,Mumbai,2018,,,,,,,
+178,PetSutra,Consumer Internet,Gurugram,2018,,,,,,,
+179,Infibeam,E-Commerce,Ahemadabad,2018,,,,,,,
+180,happay,Finance,Bengaluru,2018,,,,,,,
+181,Fincash,Finance,Mumbai,2018,,,,,,,
+182,AyeFinance,Finance,Gurugram,2018,,,,,,,
+183,Agricxlab,Agriculture,Mumbai,2018,,,,,,,
+184,Udaan,E-Commerce,Bengaluru,2018,,,,,,,
+185,Capillary,IT,Bengaluru,2018,,,,,,,
+186,The Healthy Billions,Healthcare,Gurugram,2018,,,,,,,
+187,HighRadius,Technology,Hyderabad,2018,,,,,,,
+188,Avishkaar Box,Ed-Tech,Delhi,2018,,,,,,,
+189,Planys Technologies,Technology,Chennai,2018,,,,,,,
+190,Lollypop,Technology,Bengaluru,2018,,,,,,,
+191,Trilyo,Technology,Mumbai,2018,,,,,,,
+192,Gaana,Technology,Gurugram,2018,,,,,,,
+193,Credy,IT,Bengaluru,2018,,,,,,,
+194,Predible Health,Healthcare,Bengaluru,2018,,,,,,,
+195,PharmEasy,Consumer Internet,Mumbai,2018,,,,,,,
+196,Buddy4studdy,Consumer Internet,Noida,2018,,,,,,,
+197,Urban Ladder,E-Commerce,Bengaluru,2018,,,,,,,
+198,Kuvera,Consumer Internet,Bengaluru,2018,,,,,,,
+199,Gramophone,Technology,Indore,2018,,,,,,,
+200,Wellthy,Healthcare,Mumbai,2018,,,,,,,
+201,MedGenome,Healthcare,Bengaluru,2018,,,,,,,
+202,Finova Capital,Consumer Internet,Jaipur,2018,,,,,,,
+203,Hotelogix,Technology,Noida,2018,,,,,,,
+204,Livehealth,Consumer Internet,Pune,2018,,,,,,,
+205,Ad2pro,Technology,Chennai,2018,,,,,,,
+206,Coverfox,Consumer Internet,Mumbai,2018,,,,,,,
+207,Pepperfry,Consumer Internet,Mumbai,2018,,,,,,,
+208,Magicpin,Consumer Internet,Gurugram,2018,,,,,,,
+209,HealthCare,Consumer Internet,Mumbai,2018,,,,,,,
+210,PineLabs,Technology,Mumbai,2018,,,,,,,
+211,Stumagz,Consumer Internet,Hyderabad,2018,,,,,,,
+212,AvailFinance,Consumer Internet,Bengaluru,2018,,,,,,,
+213,Grofers,Consumer Internet,Gurugram,2018,,,,,,,
+214,Fingerlix,Consumer Internet,Mumbai,2018,,,,,,,
+215,Karma Healthcare,Healthcare,Udaipur,2018,,,,,,,
+216,Zappfresh,Food & Beverages,Gurugram,2018,,,,,,,
+217,CustomerSucessBox,Technology,Gurugram,2018,,,,,,,
+218,One Labs,Consumer Internet,,2018,,,,,,,
+219,GigIndia,Consumer Internet,Pune,2018,,,,,,,
+220,Chargebee,Technology,Chennai,2018,,,,,,,
+221,i2i Funding,Consumer Internet,Noida,2018,,,,,,,
+222,Slang Labs,Technology,Bengaluru,2018,,,,,,,
+223,UrbanPiper,Technology,Bengaluru,2018,,,,,,,
+224,Cash Suvidha,Consumer Internet,Delhi,2018,,,,,,,
+225,Roadcast,Technology,Delhi,2018,,,,,,,
+226,Smartcoin,Finance,Bengaluru,2018,,,,,,,
+227,The Print,Media,Delhi,2018,,,,,,,
+228,DriveU,Technology,Bengaluru,2018,,,,,,,
+229,Fynd,Consumer Internet,Mumbai,2018,,,,,,,
+230,Fitternity,Consumer Internet,Mumbai,2018,,,,,,,
+231,Synctag,Technology,Coimbatore,2018,,,,,,,
+232,Benepik,Technology,Gurugram,2018,,,,,,,
+233,Finzy,Consumer Internet,Bengaluru,2018,,,,,,,
+234,Varthana,Finance,Bengaluru,2018,,,,,,,
+235,IndigoLearn,Ed-Tech,Hyderabad,2018,,,,,,,
+236,Vedantu,Ed-Tech,Bangalore,2018,,,,,,,
+237,Kaleidofin,Fiinance,Chennai,2018,,,,,,,
+238,Pipabella,Consumer Internet,Mumbai,2018,,,,,,,
+239,Elemential,Technology,Mumbai,2018,,,,,,,
+240,Kriger Campus,Ed-Tech,Delhi,2018,,,,,,,
+241,Loanzen,Finance,Bengaluru,2018,,,,,,,
+242,TravelTriangle,Consumer Internet,Gurugram,2018,,,,,,,
+243,Letsmd,Healthcare,Delhi,2018,,,,,,,
+244,AyeFinance,Finance,Gurugram,2018,,,,,,,
+245,mintifi,Finance,Mumbai,2018,,,,,,,
+246,icanstay,Consumer Internet,Delhi,2018,,,,,,,
+247,Pregbuddy,Healthcare,Bengaluru,2018,,,,,,,
+248,Coverfox,Consumer Internet,Mumbai,2018,,,,,,,
+249,Lenskart,Consumer Internet,Faridabad,2018,,,,,,,
+250,mamaearth,Healthcare,Gurugram,2018,,,,,,,
+251,Fyle Technologies,Technology,Bengaluru,2018,,,,,,,
+252,True Balance,Technology,Gurugram,2018,,,,,,,
+253,Visit,Healthcare,Delhi,2018,,,,,,,
+254,Doxper,Healthcare,Mumbai,2018,,,,,,,
+255,Nykaa,Consumer Internet,Mumbai,2018,,,,,,,
+256,Mihuru,Finance,Mumbai,2018,,,,,,,
+257,Capital Float,Finance,Bengaluru,2018,,,,,,,
+258,Trip shelf,Consumer Internet,Delhi,2018,,,,,,,
+259,POPxo,Technology,Delhi,2018,,,,,,,
+260,RailYatri,Consumer Internet,Noida,2018,,,,,,,
+261,1mg,Consumer Internet,Gurugram,2018,,,,,,,
+262,Rubique,Consumer Internet,Mumbai,2018,,,,,,,
+263,Samco,Consumer Internet,Mumbai,2018,,,,,,,
+264,MyLoanCare,Finance,Gurgaon,2018,,,,,,,
+265,OpenTap,Finance,Chennai,2018,,,,,,,
+266,Bizongo,Consumer Internet,Mumbai,2018,,,,,,,
+267,Disprz,IT,Chennai,2018,,,,,,,
+268,PaisaDukan,Consumer Internet,Mumbai,2018,,,,,,,
+269,i3sysytems,Technology,Mumbai,2018,,,,,,,
+270,Earth Food,Consumer Internet,Pune,2018,,,,,,,
+271,Nykaa,Consumer Internet,Mumbai,2018,,,,,,,
+272,mfine,Healthcare,Bengaluru,2018,,,,,,,
+273,Rocketium,Technology,Bengaluru,2018,,,,,,,
+274,MilkBasket,Technology,Gurugram,2018,,,,,,,
+275,Vola,Finance,Bengaluru,2018,,,,,,,
+276,Cashkumar,Consumer Internet,Bengaluru,2018,,,,,,,
+277,Edyoo,E-Commerce,Bengaluru,2018,,,,,,,
+278,Aashiyaan,Finance,Kolkata,2018,,,,,,,
+279,Smartivity,Ed-tech,Delhi,2018,,,,,,,
+280,Bonphulapl,Clean-tech,Delhi,2018,,,,,,,
+281,Acko,Consumer Internet,Mumbai,2018,,,,,,,
+282,HWell24,Healthcare,Mumbai,2018,,,,,,,
+283,Toffee,Consumer Internet,Gurugram,2018,,,,,,,
+284,Tonetag,Technology,Bengaluru,2018,,,,,,,
+285,Events High,Consumer Internet,Bengaluru,2018,,,,,,,
+286,Stellaps,Technology,Bengaluru,2018,,,,,,,
+287,Credright,Consumer Internet,Hyderabad,2018,,,,,,,
+288,CoinTribe,Finance,Gurugram,2018,,,,,,,
+289,Digiconectt,Technology,Bengaluru,2018,,,,,,,
+290,Kashmir Box,E-Commerce,Srinagar,2018,,,,,,,
+291,Crowdera,Finance,Nagpur,2018,,,,,,,
+292,Zoctr,Healthcare,Mumbai,2018,,,,,,,
+293,Annapurna Finance,Finance,Bhubneswar,2018,,,,,,,
+294,Meesho,Consumer Internet,Bengaluru,2018,,,,,,,
+295,AyeFinance,Finance,Gurugram,2018,,,,,,,
+296,Theranosis,Healthcare,Hyderabad,2018,,,,,,,
+297,Alpha Capital,Finance,Mumbai,2018,,,,,,,
+298,eshakti,E-Commerce,Chennai,2018,,,,,,,
+299,Daily Ninja,Consumer Internet,Bengaluru,2018,,,,,,,
+300,NirogStreet,Healthcare,Gurugram,2018,,,,,,,
+301,Nivesh,Finance,Noida,2018,,,,,,,
+302,What’s Up Life,Consumer Internet,Gurugram,2018,,,,,,,
+303,HomeLane,Consumer Internet,Bengaluru,2018,,,,,,,
+304,Network Intelligence,Technology,Mumbai,2018,,,,,,,
+305,Tynor Othontics,Healthcare,Chandigarh,2018,,,,,,,
+306,Elucidata,IT,Delhi & Cambridge,2018,,,,,,,
+307,Chrysalis,Ed-Tech,Pune,2018,,,,,,,
+308,RentSher,Consumer Internet,Bengaluru,2018,,,,,,,
+309,Drip capital,Finance,Mumbai,2018,,,,,,,
+310,WickedRide,Consumer Internet,Bengaluru,2018,,,,,,,
+311,PolicyBazaar,Consumer Internet,Gurugram,2018,,,,,,,
+312,HipBar,Consumer Internet,Bengaluru,2018,,,,,,,
+313,Sqqrl,Finance,Gurugram,2018,,,,,,,
+314,Paytm,Technology,Noida,2018,,,,,,,
+315,Sigtuple,Healthcare,Bengaluru,2018,,,,,,,
+316,Wow Express,Technology,Mumbai,2018,,,,,,,
+317,Front Desk AI,Technology,Bengaluru,2018,,,,,,,
+318,Edureka,Ed-Tech,Bengaluru,2018,,,,,,,
+319,Numeroseven,Technology,Kolkatta,2018,,,,,,,
+320,Leena AI,Technology,Gurugram,2018,,,,,,,
+321,Biryani By Kilo,Consumer Internet,Gurugram,2018,,,,,,,
+322,Anchanto,IT,Pune,2018,,,,,,,
+323,Loan Tap,Consumer Internet,Mumbai,2018,,,,,,,
+324,PolicyBazaar,Consumer Internet,Gurugram,2018,,,,,,,
+325,zippserv,Consumer Internet,Bengaluru,2018,,,,,,,
+326,Groww,Consumer Internet,Bengaluru,2018,,,,,,,
+327,Avenue Growth,Consumer Internet,Gurugram,2018,,,,,,,
+328,iNICU,Healthcare,Delhi,2018,,,,,,,
+329,Kinara Capital,Finance,Bengaluru,2018,,,,,,,
+330,Shop 101,Consumer Internet,Mumbai,2018,,,,,,,
+331,Sambandh,Consumer Internet,Rourkela,2018,,,,,,,
+332,19th mile,IT,Gurugram,2018,,,,,,,
+333,5th Vital,Healthcare,Bengaluru,2018,,,,,,,
+334,MEngage,Healthcare,Jaipur,2018,,,,,,,
+335,Ofbusiness,Finance,Gurugram,2018,,,,,,,
+336,Cars24,Consumer Internet,Gurugram,2018,,,,,,,
+337,The Ken,Consumer Internet,Bengaluru,2018,,,,,,,
+338,Book My Show,Consumer Internet,Mumbai,2018,,,,,,,
+339,HousingMan,Consumer Internet,Bengaluru,2018,,,,,,,
+340,PaySense,Consumer Internet,Mumbai,2018,,,,,,,
+341,Yulu Bikes,Technology,Bengaluru,2018,,,,,,,
+342,VTION,Technology,Gurugram,2018,,,,,,,
+343,Log9 Materials,Technology,Bengaluru,2018,,,,,,,
+344,kidovators,Ed-Tech,Bengaluru,2018,,,,,,,
+345,Digit,Consumer Internet,Pune,2018,,,,,,,
+346,Black Soil,Finance,Mumbai,2018,,,,,,,
+347,Trell,Consumer Internet,Bengaluru,2018,,,,,,,
+348,iqlect,Technology,Bengaluru,2018,,,,,,,
+349,Entropik,IT,Bengaluru,2018,,,,,,,
+350,Bitla Software,Technology,Bengaluru,2018,,,,,,,
+351,TheCapitalNet,Fin-Tech,Hyderabad,2018,,,,,,,
+352,Shuttl,Consumer Internet,Gurugram,2018,,,,,,,
+353,Cure Fit,Consumer Internet,Bengaluru,2018,,,,,,,
+354,Five Star Group,Fin-Tech,Chennai,2018,,,,,,,
+355,Healthsignz,Healthcare,Hyderabad,2018,,,,,,,
+356,dishq,Food-Tech,Bengaluru,2018,,,,,,,
+357,HealthFin,Finance,Pune,2018,,,,,,,
+358,Samosa Labs,Consumer Internet,Hyderabad,2018,,,,,,,
+359,ZiffyHomes,Consumer Internet,Gurugram,2018,,,,,,,
+360,My OmNamo,Consumer Internet,Mumbai,2018,,,,,,,
+361,ShopX,Consumer Internet,Bengaluru,2018,,,,,,,
+362,MakeMyTrip,Consumer Internet,Gurugram,2018,,,,,,,
+363,Hansel io,Consumer Internet,Bengaluru,2018,,,,,,,
+364,Metro Bikes,Consumer Internet,Bengaluru,2018,,,,,,,
+365,Phone Pe,Consumer Internet,Bengaluru,2018,,,,,,,
+366,quizizz,Ed-Tech,Bengaluru,2018,,,,,,,
+367,Happy EMI,Fin-Tech,Bengaluru,2018,,,,,,,
+368,Inthree,Consumer Internet,Chennai,2018,,,,,,,
+369,Observe AI,Technology,Bengaluru,2018,,,,,,,
+370,Enakshi,Consumer Internet,Ahemadabad,2018,,,,,,,
+371,EazyDiner,Consumer Internet,Gurugram,2018,,,,,,,
+372,Finzy,Finance,Bengaluru,2018,,,,,,,
+373,RawPressery,Consumer Internet,Mumbai,2018,,,,,,,
+374,Pi Ventures,Technology,Bengaluru,2018,,,,,,,
+375,Revv,Consumer Internet,Gurugram,2018,,,,,,,
+376,ZestMoney,Consumer Internet,Bengaluru,2018,,,,,,,
+377,Shubh Loans,Fin-Tech,Bengaluru,2018,,,,,,,
+378,MyUpchar,Healthcare,Delhi,2018,,,,,,,
+379,Narvar,IT,Bengaluru,2018,,,,,,,
+380,True North,Finance,Mumbai,2018,,,,,,,
+381,Netmeds,Consumer Internet,Chennai,2018,,,,,,,
+382,Udaan,B2B Platform,Bengaluru,2018,,,,,,,
+383,Daily hunt,Consumer Internet,Bengaluru,2018,,,,,,,
+384,3HCare,Healthcare,Delhi,2018,,,,,,,
+385,HappyGoEasy,Consumer Internet,Gurugram,2018,,,,,,,
+386,Nykaa,Consumer Internet,Mumbai,2018,,,,,,,
+387,Mad Street Den,Technology,Chennai,2018,,,,,,,
+388,Dream11,Consumer Internet,Mumbai,2018,,,,,,,
+389,MamaEarth,Healthcare,Gurugram,2018,,,,,,,
+390,AutoGrid,Technology,Bengaluru,2018,,,,,,,
+391,Pharmeasy,Consumer Internet,Mumbai,2018,,,,,,,
+392,Upwards,Fin-Tech,Mumbai,2018,,,,,,,
+393,Kissht,Fin-Tech,Mumbai,2018,,,,,,,
+394,Northmist,Fashion,Delhi,2018,,,,,,,
+395,Origo Commodities India Pvt. Ltd,Logistics,Hyderabad,2018,,,,,,,
+396,Grover Zampa,Food,Mumbai,2018,,,,,,,
+397,Droom,Automobile,Gurgaon,2018,,,,,,,
+398,Innov8,Real Estate,New Delhi,2018,,,,,,,
+399,Blackbuck,Logistics Tech,Bengaluru,2018,,,,,,,
+400,LetsTransport,Logistics Tech,Bengaluru,2018,,,,,,,
+401,GoDesi,Food and Beverage,Bengaluru,2018,,,,,,,
+402,Veritas Finance Ltd.,NBFC,Chennai,2018,,,,,,,
+403,Meesho,Ecommerce,Bengaluru,2018,,,,,,,
+404,Mobile Premier League,Gaming,Bengaluru,2018,,,,,,,
+405,A&R Bon Vivants,Food,Jaipur,2018,,,,,,,
+406,Blackbuck,Food Tech,"New York, Bengaluru",2018,,,,,,,
+407,MilkBAsket,Food,New Delhi,2018,,,,,,,
+408,DriveU,Transport,Bengaluru,2018,,,,,,,
+409,CleanseCar,Services,Bengaluru,2018,,,,,,,
+410,Automation Anywhere,Automation,California,2018,,,,,,,
+411,HealthifyMe,Health and Wellness,Bengaluru,2018,,,,,,,
+412,Genius Corner,Education,Noida,2018,,,,,,,
+413,Aavishkaar-Intellecap Group,Investment,Mumbai,2018,,,,,,,
+414,Skillbox,Social Network,Gurugram,2018,,,,,,,
+415,Signzy,Financial Tech,Mumbai/Bengaluru,2018,,,,,,,
+416,Engineer.ai,Software,India/US,2018,,,,,,,
+417,InCred Finance,Finance,India,2018,,,,,,,
+418,Roposo,Social Media,Delhi,2018,,,,,,,
+419,UrbanClap Technologies Pvt. Ltd,Services Platform,New Delhi,2018,,,,,,,
+420,Guiddoo,Travel Tech,Mumbai,2018,,,,,,,
+421,Career Anna,Online Education,Gurugram,2018,,,,,,,
+422,Nagpur Wholesale,Online Marketplace,Nagpur,2018,,,,,,,
+423,ShopKirana,B2B,Indore,2018,,,,,,,
+424,BuildSupply,"SaaS, Ecommerce",Gurugram,2018,,,,,,,
